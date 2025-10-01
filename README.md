@@ -2,7 +2,7 @@
 
 Forecasting physical match demands with opponent-aware deep learning.
 
-> This repository will host the code and data accompanying the **Styles Makes Runs** project (working title). It focuses on modeling team playstyle and opponent interactions to predict match-day exposure metrics.
+> This repository will host the code and data accompanying the **Styles Makes Runs** project. It focuses on modeling team playstyle and opponent interactions to predict match-day exposure metrics.
 
 ---
 
